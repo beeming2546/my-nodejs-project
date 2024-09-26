@@ -1,0 +1,40 @@
+h1
+ {
+    text-align: center;
+  }
+  
+ 
+
+  div {
+    text-align: center;
+  }
+
+
+#Peoplepark {
+color: crimson;
+
+}
+
+  #GYM {
+    color: rgb(230, 230, 88);
+  }
+  
+ 
+  #TOPS {
+    color: blue;
+  }
+
+  #ศาล {
+    color: green;
+  }
+
+  .sarabun-thin {
+    font-family: "Sarabun", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  #ร้านอาหารที่น่าสนใจ {
+    color: #5529e2;
+  }
+  

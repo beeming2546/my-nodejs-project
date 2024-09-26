@@ -1,0 +1,16 @@
+
+body {
+    background-color: black;
+}
+
+.c h1,p{
+    color: wheat;
+}
+
+.b{
+   text-align: center;
+    border: 10px solid white;
+     padding: 10px;
+     width: 600px;
+     
+}

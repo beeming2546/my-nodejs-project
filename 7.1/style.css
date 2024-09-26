@@ -1,0 +1,19 @@
+/* Write your code here: */
+
+h1,h2 {
+    color: blueviolet;
+}
+ .box > p {  /* เอา p ที่อยู่ใต้ box*/
+    color: firebrick;
+ }
+
+ .box li{ /* */
+    color: blue;
+ }
+  li.done { /* li ที่มี class เป็น done  */
+    color: aqua;
+  }
+
+  ul p.done {
+    font-size: 0.5rem;
+  }

@@ -1,0 +1,94 @@
+<h1>แอนนา แคทรีนา มาร์เคซี</h1>
+<h2>พนักงานฝ่ายบุคคล</h2>
+<h3>อายุ 28 ปี</h3>
+
+<div class="section">
+  <h2 class="section-title">การศึกษา</h2>
+  <div class="section-content">
+    <p>ระดับอุดมศึกษา</p>
+    <p>สาขาการบริหารทรัพยากรบุคคล</p>
+    <p>คณะศิลปศาสตร์</p>
+    <p>มหาวิทยาลัยกินยาร์ด</p>
+    <p>สําเร็จการศึกษา : ปี 2017</p>
+  </div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">ทักษะด้านภาษา</h2>
+  <div class="section-content">
+    <ul>
+      <li>ไทย : ดีมาก</li>
+      <li>อังกฤษ : ดีมาก</li>
+      <li>จีน : ดี</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">ข้อมูลโดยย่อ</h2>
+  <div class="section-content">
+    <ul>
+      <li>สำเร็จการศึกษาด้านศิลปศาสตร์</li>
+      <li>มีความรู้ ความสามารถ การจัดการทรัพยากรบุคคล</li>
+      <li>ประสานงานกับบุคลากร รวมทั้งการสรรหาคัดเลือกบุคลากร</li>
+      <li>มีประสบการณ์ทำงานด้านฝ่ายบุคคล 6 ปี</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">ความสามารถ</h2>
+  <div class="section-content">
+    <ul>
+      <li>มีความอดทน มีวินัยในการ ทำงานร่วมกับผู้อื่นได้เป็นอย่างดี</li>
+      <li>มีทักษะการสื่อสารและการทำงานเป็นทีม</li>
+      <li>มีความเข้าใจในกฎหมายแรงงานและการบริหารทรัพยากรบุคคล</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">ประสบการณ์การทำงาน</h2>
+  <div class="section-content">
+    <h3>พนักงานฝ่ายบุคคล</h3>
+    <p>ม.ค. 2020 - ก.ค. 2023</p>
+    <p>Timmerman Industries</p>
+    <ul>
+      <li>จัดทำและบริหารเอกสารบุคคล</li>
+      <li>ประสานงานกับพนักงานและผู้บริหารในเรื่องทรัพยากรบุคคล</li>
+      <li>แก้ไขปัญหาที่เกี่ยวกับบุคคลากรในองค์กร</li>
+      <li>และงานอื่นๆ ด้านบุคคล ตามที่ได้รับมอบหมาย</li>
+    </ul>
+
+    <h3>พนักงานฝ่ายบุคคล</h3>
+    <p>พ.ค. 2017 - ร.ค. 2019</p>
+    <p>Fradel and Spies Co</p>
+    <ul>
+      <li>สรรหาและคัดเลือกบุคลากร, การจ้างงาน, เงินเดือนของบุคลากรในองค์กร</li>
+      <li>ควบคุมความปลอดภัยและความเป็นส่วนตัวของข้อมูลบุคคล</li>
+      <li>และงานเอกสารอื่นๆ ตามที่ได้รับมอบหมาย</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">บุคคลอ้างอิง</h2>
+  <div class="section-content">
+    <p>นางสาวอโดรา มอนต์มินี</p>
+    <p>Timmerman Industries</p>
+    <p>ผู้จัดการฝ่ายบุคคล</p>
+    <p><a href="mailto:hello@reallygreatsite.com">hello@reallygreatsite.com</a></p>
+    <p>+123-456-7890</p>
+  </div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">ข้อมูลการติดต่อ</h2>
+  <div class="section-content">
+    <ul>
+      <li><a href="tel:+1234567890">+123-456-7890</a></li>
+      <li><a href="mailto:hello@reallygreatsite.com">hello@reallygreatsite.com</a></li>
+      <li>123 Anywhere St., Any City</li>
+    </ul>
+  </div>
+</div>

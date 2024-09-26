@@ -1,0 +1,35 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+.note{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+/* Write your CSS below, don't change the rules above. */
+
+.a{
+  color: red;
+  text-align: center;
+}
+
+.b{
+  font-size: 20;
+  text-align: center;
+}
+
+.c{
+  text-align: center;
+}
+
+.d{
+  text-align: center;
+}
+
+.e{
+  text-align: center;
+}
+
